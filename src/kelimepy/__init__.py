@@ -1,0 +1,1 @@
+from kelime import Kelime
